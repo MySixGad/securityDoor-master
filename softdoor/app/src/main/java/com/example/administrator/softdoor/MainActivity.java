@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         /**
-         * 本软件设想：
+         * 本软件设想： 
          *
          * 利用科大讯飞 声纹识别 和人脸识别技术 开启硬件门锁
          *
